@@ -1,0 +1,10 @@
+Each required task have its own dedicated folder named after the task
+
+--> Inside the folder:
+ 	1.	A Python file (the code) named of task
+ 	2.	The output results (such as images, videos, screenshots, and similar files), also named of task.
+
+Example:
+Task 2 → Task2.py + Task2.mp4 + Task2.png
+
+The same structure applies to all tasks.
